@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1e539219668f1d",
+        "id": "ca5f26aee06501a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202203190911 Git Commands.md",
-            "mode": "preview",
-            "backlinks": false
-          }
-        }
-      },
-      {
-        "id": "0bde85b5dd565237",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
-            "mode": "source",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -100,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202203190911 Git Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202203190911 Git Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab1e539219668f1d",
+  "active": "ca5f26aee06501a0",
   "lastOpenFiles": [
-    "202203190911 Git Commands.md",
-    "Git Hub.md",
-    "Permanent Notes/Ukiran Samblung.md",
+    "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
+    "Permanent Notes/Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
     "Permanent Notes/Ukiran Samblung Bukan Motif Bali Asli.md",
-    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
+    "Permanent Notes/Ukiran Samblung Juga Bisa di Ukir Di Bahan Batu Paras.md",
+    "Permanent Notes/Membuat Gayam Adalah Bagian Yang Menarik Bagi Para Pengukir.md",
+    "Permanent Notes/Tempat Suci Hindu Bali, Instrument Bali, Dan Bangunan Bale Bali, Tempat Dimana Kita Bisa Jumpai Ukiran Samblung.md",
     "Permanent Notes/Komposisi Ukiran Samblung terlihat Indah atau Seni.md",
-    "Templates/Literature Note Template.md",
-    "Bibliography.md",
-    "Literature Notes/Untitled.md",
-    "Literature Notes/Untitled 2.md"
+    "Membuat Gayam Adalah.md",
+    "Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
+    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md"
   ]
 }
