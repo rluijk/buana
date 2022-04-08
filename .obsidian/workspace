@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "5759edc158519837",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1e539219668f1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202203190911 Git Commands.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "0bde85b5dd565237",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ad49ea24f86cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec8eb329fc5cc43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36129bbe4fee7fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5faf107f3875145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97bdde42f2d647f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4acfb13d287434e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "4d4917ccb1bbdc7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb18014818899d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609fd8b2406de17d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202203190911 Git Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35cf6503ff714943",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6a8de4a9e9adfc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202203190911 Git Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e88e9074ca87cf1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1371cc305fe5e5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
+                "mode": "source",
+                "backlinks": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab1e539219668f1d",
+  "lastOpenFiles": [
+    "202203190911 Git Commands.md",
+    "Git Hub.md",
+    "Permanent Notes/Ukiran Samblung.md",
+    "Permanent Notes/Ukiran Samblung Bukan Motif Bali Asli.md",
+    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
+    "Permanent Notes/Komposisi Ukiran Samblung terlihat Indah atau Seni.md",
+    "Templates/Literature Note Template.md",
+    "Bibliography.md",
+    "Literature Notes/Untitled.md",
+    "Literature Notes/Untitled 2.md"
+  ]
+}
