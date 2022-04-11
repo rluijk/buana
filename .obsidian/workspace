@@ -7,8 +7,36 @@
         "id": "ca5f26aee06501a0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Pengerjaan motif Patra Cina di Laptop Stand bisa mencapai dua hari.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "50ca4715e9ae647a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "8cfda84588b4ebd7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Asal dari motif Patra Cina.md",
+            "mode": "preview",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -84,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca5f26aee06501a0",
+  "active": "50ca4715e9ae647a",
   "lastOpenFiles": [
     "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
-    "Permanent Notes/Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
-    "Permanent Notes/Ukiran Samblung Bukan Motif Bali Asli.md",
-    "Permanent Notes/Ukiran Samblung Juga Bisa di Ukir Di Bahan Batu Paras.md",
-    "Permanent Notes/Membuat Gayam Adalah Bagian Yang Menarik Bagi Para Pengukir.md",
-    "Permanent Notes/Tempat Suci Hindu Bali, Instrument Bali, Dan Bangunan Bale Bali, Tempat Dimana Kita Bisa Jumpai Ukiran Samblung.md",
+    "Permanent Notes/Asal dari motif Patra Cina.md",
+    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
+    "Permanent Notes/Pengerjaan motif Patra Cina di Laptop Stand bisa mencapai dua hari.md",
+    "Permanent Notes/Pemecahan Bunga dalam Patra Cina Sulit.md",
+    "Permanent Notes/Ukiran Patra Cina lebih mahal di bandingkan ukiran Patra yang lainnya.md",
     "Permanent Notes/Komposisi Ukiran Samblung terlihat Indah atau Seni.md",
-    "Membuat Gayam Adalah.md",
-    "Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
-    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md"
+    "Permanent Notes/Bunga Patra Cina Bisa dikombinasikan dengan Patra yang lainya.md",
+    "Permanent Notes/Patra Cina juga banyak di gunakan di ukiran seperti di gambelan, Pura atau Candi dan Bangunan Bale Bali.md",
+    "Permanent Notes/Membuat Gayam Adalah Bagian Yang Menarik Bagi Para Pengukir.md"
   ]
 }
