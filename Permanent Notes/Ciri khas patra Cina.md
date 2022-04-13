@@ -1,7 +1,7 @@
 #zettel
 # Ciri khas patra Cina
 
-Patra Cina adalah perpaduan budaya tradisional Bali dan Cina.  Ciri khas dari Patra Cina adalah bunga mekar yang memiliki sari atau gayam ditengahnya. Sama halnya dengan motif Patra Landa [[Patra Cina juga banyak di gunakan di ukiran seperti di gambelan, Pura atau Candi dan Bangunan Bale Bali]], oleh karena itu ukiran Patra Cina ini juga bisa di ukir di bahan batu paras.
+[[Ornamen Patra atau Pepatran]] Cina adalah [[Ornamen]] perpaduan budaya tradisional Bali dan Cina.  Ciri khas dari Patra Cina adalah bunga mekar yang memiliki sari atau gayam ditengahnya. Patra Cina biasanya menggunakan pola segitiga dengan banyak tangkai dan cabang. Sama halnya dengan motif Patra Landa [[Patra Cina juga banyak di gunakan di ukiran seperti di gambelan, Pura atau Candi dan Bangunan Bale Bali]], oleh karena itu ukiran Patra Cina ini juga bisa di ukir di bahan batu paras.
 
 [[Ukiran Samblung adalah Ukiran tanaman Rambat]] dan apabila di kombinasikan dengan bunga Patra Cina ini akan menghasilkan motif yang sangat indah/seni. [[Bunga Patra Cina Bisa dikombinasikan dengan Patra yang lainya]],  akan tetapi [[Bunga patra Cina tidak cocok dikombinasikan dengan don Kuping guling]].
 

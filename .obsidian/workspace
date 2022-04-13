@@ -4,13 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "50ca4715e9ae647a",
+        "id": "b5ad5610859dbccf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Batu batuan.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "906516b18aa2fd99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Bentuk dari patra Landa.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "c498fff86df496f1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "952052b65582c904",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent Notes/Patra Bali asli adalah Patra Pungel.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "211496a5aa9145f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Permanent Notes/Ciri khas patra Cina.md",
-            "mode": "preview",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "a0e6d9b8328e34a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Literature Notes/Ornamen Bali.md",
+            "mode": "source",
             "backlinks": false
           }
         }
@@ -88,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Ciri khas patra Cina.md",
+                "file": "Literature Notes/Ornamen Bali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Ciri khas patra Cina.md",
+                "file": "Literature Notes/Ornamen Bali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50ca4715e9ae647a",
+  "active": "a0e6d9b8328e34a6",
   "lastOpenFiles": [
+    "Literature Notes/Ornamen Bali.md",
+    "Permanent Notes/Patra sari.md",
+    "Permanent Notes/Batu batuan.md",
+    "Permanent Notes/Patra Samblung adalah Ukiran tanaman Rambat.md",
+    "Permanent Notes/Patra Bali asli adalah Patra Pungel.md",
+    "Permanent Notes/Bentuk dari patra Landa.md",
     "Permanent Notes/Ciri khas patra Cina.md",
-    "Bibliography.md",
-    "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
-    "Permanent Notes/Asal dari motif Patra Cina.md",
-    "Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
-    "Permanent Notes/Pengerjaan motif Patra Cina di Laptop Stand bisa mencapai dua hari.md",
-    "Permanent Notes/Ukiran Samblung adalah Ukiran tanaman Rambat.md",
-    "Permanent Notes/Pemecahan Bunga dalam Patra Cina Sulit.md",
-    "Permanent Notes/Ukiran Patra Cina lebih mahal di bandingkan ukiran Patra yang lainnya.md",
-    "Permanent Notes/Komposisi Ukiran Samblung terlihat Indah atau Seni.md"
+    "Permanent Notes/Patra Cina juga banyak di gunakan di ukiran seperti di gambelan, Pura atau Candi dan Bangunan Bale Bali.md",
+    "Permanent Notes/Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
+    "Permanent Notes/Ukiran Samblung Juga Bisa di Ukir Di Bahan Batu Paras.md"
   ]
 }
