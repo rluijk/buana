@@ -1,6 +1,6 @@
 #zettel 
 # Ornamen Kekarangan
-Adalah kombinasi motif hias dari stilisasi muka muka hewan, manusia, maupun raksasa dengan tumbuh tumbuhan
+Adalah kombinasi [[Ornamen]] yang dari [[stilisasi]] muka muka hewan, manusia, maupun raksasa dengan tumbuh tumbuhan
 
 ---
 

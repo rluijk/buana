@@ -8,3 +8,10 @@ Adalah [[Ornamen Keketusan]] yang di stilisasi dari tanaman rambat yang saling t
 -literature source: [[Ornamen Bali]]
 
 ---
+![[Tali ilut Motif.jpg | 700]]
+
+
+
+
+
+![[Tali ilut di paras.jpg |700]]

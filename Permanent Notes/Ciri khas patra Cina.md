@@ -18,3 +18,15 @@ Salah satu ide kita yang menggunakan Ukiran Motif Patra Cina ini adalah meja lap
 -literature source: [[Pengenalan Patra Dalam Ukiran Bali#^f185f9]]
 
 ---
+
+![[Patra Cina di pintu Sanggah.jpg | 700]]
+
+
+![[Patra cina Motif.jpg | 700]]
+
+
+![[Patra Cina di ukiran Kayu.jpg | 700]]
+
+
+
+![[Patra Cina di Paras.jpg | 700]]

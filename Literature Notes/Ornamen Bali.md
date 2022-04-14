@@ -14,11 +14,11 @@
 - [x] Patra Cina Motif hias yang menggunakan pola segitiga dengan banyak tangkai dan cabang
 - [x] Patra Pungel motif hias yang di stilisasi dari tumbuhan dan ciri khas Bali
 - [x] Patra Sari motif hias yang berisi patra pungel dan tangkai bunga lotus
-- [ ] Patra Banci motif hias dari beberapa patra
+- [x] Patra Banci motif hias dari beberapa patra
 
 - Ornamen Kekarangan adalah hasil stilisasi dari muka muka hewan dan manusia dengan di beri hiasan stilisasi tumbuhan
-- [ ] Karang Goak motif hias yang di stilisasi dari burung gagak yang memiliki gigi runcing
-- [ ] Karang Tapel adalah motif hias yang di stilisasi dari topeng Bali yang memiliki gigi tumpul
-- [ ] Karang Gajah adalah motif hias yang di stilisasi dari wajah gajah dengan belalainya
-- [ ] Karang Boma adalah mitif hias yang di stilisasi dari wajah Bhuta Kala atau raksasa dengan gerakan telapak tangan terbuka dan gigi tumpul
-- [ ] Karang Sae motif hias yang di stilisasi dari wajah Bhuta Kala atau raksasa dengan gerakan telapak tangan tertutup dan gigi runcing
+- [x] Karang Goak motif hias yang di stilisasi dari burung gagak yang memiliki gigi runcing
+- [x] Karang Tapel adalah motif hias yang di stilisasi dari topeng Bali yang memiliki gigi tumpul
+- [x] Karang Gajah adalah motif hias yang di stilisasi dari wajah gajah dengan belalainya
+- [x] Karang Boma adalah mitif hias yang di stilisasi dari wajah Bhuta Kala atau raksasa dengan gerakan telapak tangan terbuka dan gigi tumpul
+- [x] Karang Sae motif hias yang di stilisasi dari wajah Bhuta Kala atau raksasa dengan gerakan telapak tangan tertutup dan gigi runcing
