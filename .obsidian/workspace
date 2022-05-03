@@ -4,14 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "112bba0828a3070f",
+        "id": "7d09eff43422522f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Patra sari.md",
-            "mode": "source",
-            "backlinks": false
+            "file": "Permanent Notes/Blender basic.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -67,6 +68,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "c7ca7d75e6f0fc7a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Patra sari.md",
+                "file": "Permanent Notes/Blender basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Patra sari.md",
+                "file": "Permanent Notes/Blender basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,14 +136,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1371cc305fe5e5e7",
+            "id": "0b1c27f8bdf3ac52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Pengenalan Patra Dalam Ukiran Bali.md",
-                "mode": "source",
-                "backlinks": false
+                "file": "IW-Queues/IW-Queue.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -142,20 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 415,
     "collapsed": true
   },
-  "active": "112bba0828a3070f",
+  "active": "7d09eff43422522f",
   "lastOpenFiles": [
-    "Permanent Notes/Patra sari.md",
-    "Permanent Notes/Patra Samblung adalah Ukiran tanaman Rambat.md",
-    "Permanent Notes/Patra Cina juga banyak di gunakan di ukiran seperti di gambelan, Pura atau Candi dan Bangunan Bale Bali.md",
-    "Permanent Notes/Patra banci.md",
-    "Permanent Notes/Patra Bali asli adalah Patra Pungel.md",
-    "Permanent Notes/Ornamen Patra atau Pepatran.md",
-    "Permanent Notes/Ornamen Keketusan.md",
-    "Permanent Notes/Ornamen Kekarangan.md",
-    "Permanent Notes/Ornamen.md",
-    "Permanent Notes/Membuat Gayam Adalah Bagian Yang Menarik Bagi Para Pengukir.md"
+    "Permanent Notes/Blender basic.md",
+    "Permanent Notes/Kamera.md",
+    "Permanent Notes/Zoom.md",
+    "Permanent Notes/Pan.md",
+    "Permanent Notes/Orbit.md",
+    "Permanent Notes/Tool Panel.md",
+    "Permanent Notes/Side bar.md",
+    "Permanent Notes/Property.md",
+    "Permanent Notes/Layer.md",
+    "Permanent Notes/Menu bar.md"
   ]
 }

@@ -1,5 +1,11 @@
 [
   "calendar",
   "dataview",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-icon-folder",
+  "obsidian-incremental-writing",
+  "obsidian-outliner",
+  "recent-files-obsidian",
+  "workspaces-plus",
+  "obsidian-zoom"
 ]
