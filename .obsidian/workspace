@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Blender basic.md",
-            "mode": "preview",
+            "file": "Permanent Notes/3d viev port.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Blender basic.md",
+                "file": "Permanent Notes/3d viev port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Blender basic.md",
+                "file": "Permanent Notes/3d viev port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +157,15 @@
   },
   "active": "7d09eff43422522f",
   "lastOpenFiles": [
+    "Permanent Notes/3d viev port.md",
+    "Permanent Notes/Blender.md",
+    "Ukiran Samblung Tidaklah Sulit Untuk Di Buat.md",
     "Permanent Notes/Blender basic.md",
     "Permanent Notes/Kamera.md",
     "Permanent Notes/Zoom.md",
     "Permanent Notes/Pan.md",
     "Permanent Notes/Orbit.md",
     "Permanent Notes/Tool Panel.md",
-    "Permanent Notes/Side bar.md",
-    "Permanent Notes/Property.md",
-    "Permanent Notes/Layer.md",
-    "Permanent Notes/Menu bar.md"
+    "Permanent Notes/Side bar.md"
   ]
 }
