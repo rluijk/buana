@@ -3,7 +3,7 @@ Sudah banyak sekali blender tutorial di beberapa flatform seperti Youtube dll,
 tetapi yang saya butuhkan disini tidaklah banyak ada beberapa saja akan tetapi ini sangatlah penting dalam pekerjaan saya. Dan apabila ada tambahan yang saya butuhkan saya biasanya mencarinya di Youtube.
 
 # Tampilan [[Blender]]
-- [[3d viev port]]
+- [[3d view port]]
 - [[Menu bar]]
 - [[Layer]]
 - [[Property]]

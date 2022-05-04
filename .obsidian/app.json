@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Images",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true
 }
