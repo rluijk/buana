@@ -24,6 +24,14 @@ tetapi yang saya butuhkan disini tidaklah banyak ada beberapa saja akan tetapi i
 - Samping Kiri
 - [[Kamera]]
 
+# Beberapa Modifier untuk simple model
+- [[Array]]
+- [[Bevel]]
+- [[Boolean]]
+- [[Decimate]]
+- [[Mirror]]
+- [[Subdivision Surface]]
+- [[Solidify]]
 
 
 
